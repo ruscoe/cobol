@@ -1,0 +1,5 @@
+01George Washington04-30-178903-04-1797Virginia
+02John Adams       03-04-179703-04-1801Massachusetts
+03Thomas Jefferson 03-04-180103-04-1809Virginia
+04James Madison    03-04-180903-04-1817Virginia
+05James Monroe     03-04-181703-04-1825Virginia
