@@ -11,4 +11,11 @@ OpenCOBOL, which you can install by running:
 
 Compile one of these script by running:
 
-`cobc hello.cob`
+`cobc -x -o hello hello.cob`
+
+Finally, run:
+
+```
+./hello
+Hello world!
+```
