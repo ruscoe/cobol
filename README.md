@@ -9,7 +9,7 @@ OpenCOBOL, which you can install by running:
 
 `sudo apt-get install open-cobol`
 
-Compile one of these script by running:
+Compile one of these scripts by running:
 
 `cobc -x -o hello hello.cob`
 
